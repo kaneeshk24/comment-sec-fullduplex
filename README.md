@@ -1,1 +1,1 @@
-front-end bit of comment section w/ bsic server code (express and node)
+front-end bit of comment section w/ basic server code (express and node)
